@@ -1,1 +1,1 @@
-This project in Power Bi focuses on data presentation with a use of several visualisation tools such as clustered bar charts, scatter charts or slicer. Additionally were used tool as grouping by legend or summing values from choose data.
+This project in Power Bi focuses on data presentation after short data cleaning, with a use of several visualisation tools such as clustered bar charts, scatter charts or slicer. Additionally were used tool as grouping by legend or summing values from choose data.
