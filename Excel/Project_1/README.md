@@ -1,0 +1,1 @@
+This project analyse the amount of order per consumer. In each sheet I analysed whether the customer returned the product, how changed the sum of sales and amount of purchased items with the use of pivot tables and charts. Additionaly at the end with the use of statistical tests such as Student's Test I summarized the data and presented the results.
