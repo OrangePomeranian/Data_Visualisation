@@ -1,0 +1,1 @@
+This project focused mostly of statistical analysis of car's data. With the usage of charts I presented the cumulative averages, averages, sums. Additionaly I conducted Two Sample Student's Test, Analysis of Variance and presented the regression chart with its statistics.
